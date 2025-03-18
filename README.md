@@ -159,18 +159,3 @@ Minishell est construit autour de plusieurs modules principaux qui interagissent
   - `free_all.c` : Libère toutes les ressources utilisées par le shell avant de quitter.
 
 <br>
-
-## Note Final et Commentaires 📔
-
-<br>
-
-| |
-| --- |
-| ![](.media/note.png) |
-
-
-| | |
-| --- | --- |
-| Correcteur 1 | <img src=".media/com1.png" /> |
-| Correcteur 2 | <img src=".media/com2.png" /> |
-| Correcteur 3 | <img src=".media/com3.png" /> |
